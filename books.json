@@ -1,0 +1,30 @@
+[
+   {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "year": 1925,
+      "rating": 5
+   },
+   {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "year": 1960,
+      "rating": 4
+   },
+   {
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "year": 1949,
+      "rating": 5
+   },
+   {
+      "title": "the catcher in the rye",
+      "author": "jd salinger",
+      "genre": "fiction",
+      "year": "1969",
+      "rating": "2"
+   }
+]
